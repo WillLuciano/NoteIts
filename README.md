@@ -24,13 +24,14 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column  
 
 ### Website Link
-Check out the deployed app here: [Note Taker]()
+Check out the deployed app here: [Note Taker](https://notits.herokuapp.com/)
+checkout the github repo here: [repo](https://github.com/WillLuciano/NoteIts.git)
 
 ### Screenshots
 
-![screenshot]()
-![screenshot]()
+![screenshot](public\assets\images\notescover.PNG)
+![screenshot](public\assets\images\addednote.PNG)
 
 ### Contact
 
-[William Luciano on GitHub]()
+[William Luciano on GitHub](https://github.com/WillLuciano)
