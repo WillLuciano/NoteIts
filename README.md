@@ -25,12 +25,12 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ### Website Link
 Check out the deployed app here: [Note Taker](https://notits.herokuapp.com/)
-checkout the github repo here: [repo](https://github.com/WillLuciano/NoteIts.git)
+/github repo here: [repo](https://github.com/WillLuciano/NoteIts.git)
 
 ### Screenshots
 
-![screenshot](public\assets\images\notescover.PNG)
-![screenshot](public\assets\images\addednote.PNG)
+![screenshot](https://github.com/WillLuciano/NoteIts/blob/main/public/assets/images/Notescover.PNG)
+![screenshot](https://github.com/WillLuciano/NoteIts/blob/main/public/assets/images/addednote.PNG)
 
 ### Contact
 
